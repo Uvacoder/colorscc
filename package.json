@@ -3,7 +3,7 @@
   "version": "3.0.2",
   "main": "js/colors.js",
   "style": "css/colors.css",
-  "homepage": "https://colorscc.vercel.app",
+  "homepage": "https://uvacoder.github.io/colorscc/",
   "description": "Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.",
   "keywords": [
     "colors",
